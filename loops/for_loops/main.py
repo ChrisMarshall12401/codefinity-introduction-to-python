@@ -3,4 +3,4 @@ total = 0
 # Write your code here
 for itemprice in prices:
     total += itemprice
-     
+print(total)    
